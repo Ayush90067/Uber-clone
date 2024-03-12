@@ -1,0 +1,175 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#nav{
+    background-color: black;
+    height: 60px;
+    color: white;
+   display: flex;
+   justify-content: space-around;
+   opacity: 0.6;
+   position: sticky;
+   top: 0;
+}
+
+.nav.li{
+    padding-top: 5px;
+}
+
+.container1{
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+.img1{
+   padding-top: 30px;
+   padding-right: 30px;
+    border-radius: 5px;
+
+}
+
+.box1{
+    padding-left: 100px;
+    padding-top: 150px;
+    text-align: center;
+}
+
+.container2{  
+     height: 500px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(15, 14, 14);
+}
+.img2{
+     
+    border-radius: 5px;
+    padding-left: 40px;
+    padding-top: 40px;
+    
+}
+
+.box2{
+    padding-top: 140px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+form{
+    border-radius: 3px;
+    padding-top: 3px;
+    margin-top: 30px;
+}
+
+.container3{
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(15, 14, 14);
+}
+
+.img3{
+    padding-top: 50px;
+    padding-right: 50px;
+
+     border-radius: 5px;
+     padding-bottom: 30px;
+}
+.box3{
+    padding-top: 150px;
+    padding-left: 100px;
+    
+}
+.container4{
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(15, 14, 14);
+}
+.img4{
+    border-radius: 5px;
+    padding-left: 40px;
+    padding-top: 40px;  
+    padding-bottom: 20px; 
+}
+
+.box4{
+    padding-top: 140px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+
+button{
+    padding-top: 5px;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    width: 80px;
+    height: 40px;
+}
+
+.boxes{
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.container5{
+    background-color: antiquewhite;
+    height: 400px;
+}
+
+.box5{
+    background-color: beige;
+    border-radius: 5px;
+    margin-top: 90px;
+    padding-left: 40px;
+}
+
+.box6{
+    background-color: beige;
+    border-radius: 5px;
+    margin-top: 90px;
+    padding-left: 40px;
+}
+
+.container6{
+    height: 800px;
+    background-color: black;
+    color: white;
+}
+.heading{
+    padding-top: 60px;
+    padding-left: 50px;
+    
+}
+.fot{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box11{
+    padding-top: 80px;
+
+}
+li{
+    list-style: none;
+    display: inline;
+
+}
+.box12{
+    display: flex;
+    justify-content: space-around;
+}
+
+.box13{
+    padding-top: 120px;
+    text-align: center;
+}
+
+img:hover{
+    scale: 1.1;
+}
+
